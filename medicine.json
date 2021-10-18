@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Vicodin (hydrocodone/acetaminophen)",
+      "image": "https://c8.alamy.com/comp/HRJ56G/vicodin-prescription-medicine-for-pain-relief-HRJ56G.jpg",
+      "description": "Vicodin is a popular drug for treating acute or chronic moderate to moderately severe pain",
+      "use": "Its most common side effects are lightheadedness, dizziness, sedation."
+    },
+    {
+      "id": 2,
+      "name": "Albuterol (Accuneb, Ventolin, Proair)",
+      "image": "https://rtmagazine.com/wp-content/uploads/2020/02/pharma_generic_albuterolsulfate-1350-1280x640.jpg",
+      "description": "Albuterol sulphate dilates the airways of the lung and is used for treating asthma and other conditions of the lung. ",
+      "use": "migraine headaches.non-migraine headaches."
+    },
+    {
+      "id": 3,
+      "name": " Lisinopril (Generic for Prinivil or Zestril)",
+      "image": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_920,h_690,q_70/v1518632220/uk/services-setup/chronic-unit/high-blood-pressure-unit/lisinopril-unit/fkh3q6v6pzfhvksvu4od.jpg",
+      "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used for treating high blood pressure ",
+      "use": "Lisinopril side effects include dizziness, nausea, headaches, drowsiness, and sexual dysfunction."
+    },
+    {
+      "id": 4,
+      "name": " Lisinopril (Generic for Prinivil or Zestril)",
+      "image": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_920,h_690,q_70/v1518632220/uk/services-setup/chronic-unit/high-blood-pressure-unit/lisinopril-unit/fkh3q6v6pzfhvksvu4od.jpg",
+      "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used for treating high blood pressure ",
+      "use": "Lisinopril side effects include dizziness, nausea, headaches, drowsiness, and sexual dysfunction."
+    },
+    {
+      "id": 5,
+      "name": " Lisinopril (Generic for Prinivil or Zestril)",
+      "image": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_920,h_690,q_70/v1518632220/uk/services-setup/chronic-unit/high-blood-pressure-unit/lisinopril-unit/fkh3q6v6pzfhvksvu4od.jpg",
+      "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used for treating high blood pressure ",
+      "use": "Lisinopril side effects include dizziness, nausea, headaches, drowsiness, and sexual dysfunction."
+    },
+    {
+      "id": 6,
+      "name": " Lisinopril (Generic for Prinivil or Zestril)",
+      "image": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_920,h_690,q_70/v1518632220/uk/services-setup/chronic-unit/high-blood-pressure-unit/lisinopril-unit/fkh3q6v6pzfhvksvu4od.jpg",
+      "description": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used for treating high blood pressure ",
+      "use": "Lisinopril side effects include dizziness, nausea, headaches, drowsiness, and sexual dysfunction."
+    }
+  ]
